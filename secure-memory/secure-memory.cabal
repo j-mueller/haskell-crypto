@@ -70,7 +70,7 @@ library
       ./cbits/readline_max.c
   build-depends:
       base >=4.10 && <4.17
-    , bytestring >=0.9 && <0.11
+    , bytestring >=0.9 && <0.12
     , libsodium >=1.0.18.2
     , memory >=0.14.15 && <0.17
     , reflection >=1.2.0.1 && <2.2
